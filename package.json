@@ -1,6 +1,6 @@
 {
   "name": "sea",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple Event Architecture",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "test": "mocha -r esm test/*.test.js"
   },
   "author": "Luke Anderson",
-  "license": "ISC",
+  "repository": "github:0la0/sea",
+  "license": "GPL-3.0",
   "devDependencies": {
     "eslint": "^6.0.0",
     "esm": "^3.2.25",
