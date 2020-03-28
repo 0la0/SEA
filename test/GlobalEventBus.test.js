@@ -1,6 +1,6 @@
 import jsdom from 'jsdom';
 import assert from 'assert';
-import { GlobalEventBus, Subscription } from '../src';
+import { GlobalEventBus, Subscription } from '../src/index.js';
 
 describe('GlobalEventBus', () => {
   beforeEach(() => {

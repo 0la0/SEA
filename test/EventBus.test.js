@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { EventBus, Subscription } from '../src';
+import { EventBus, Subscription } from '../src/index.js';
 
 describe('EventBus', () => {
   it('only accepts Subscriptions', () => {

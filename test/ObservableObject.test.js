@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { Observer, ObservableObject } from '../src';
+import { Observer, ObservableObject } from '../src/index.js';
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
 

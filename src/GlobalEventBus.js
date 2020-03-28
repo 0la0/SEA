@@ -1,4 +1,4 @@
-import EventBusBase from './EventBusBase';
+import EventBusBase from './EventBusBase.js';
 
 const GLOBAL_EVENT = 'GLOBAL_EVENT';
 

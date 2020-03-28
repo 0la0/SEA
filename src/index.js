@@ -1,9 +1,9 @@
-import EventBus from './EventBus';
-import GlobalEventBus from './GlobalEventBus';
-import Observable from './Observable';
-import ObservableObject from './ObservableObject';
-import Observer from './Observer';
-import Subscription from './Subscription';
+import EventBus from './EventBus.js';
+import GlobalEventBus from './GlobalEventBus.js';
+import Observable from './Observable.js';
+import ObservableObject from './ObservableObject.js';
+import Observer from './Observer.js';
+import Subscription from './Subscription.js';
 
 export {
   EventBus,

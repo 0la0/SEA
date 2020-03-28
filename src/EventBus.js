@@ -1,4 +1,4 @@
-import EventBusBase from './EventBusBase';
+import EventBusBase from './EventBusBase.js';
 
 export default class EventBus extends EventBusBase {
   publish(message) {

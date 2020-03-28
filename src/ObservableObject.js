@@ -1,4 +1,4 @@
-import Observable from './Observable';
+import Observable from './Observable.js';
 
 export default class ObservableObject extends Observable {
   constructor(value, observers = []) {

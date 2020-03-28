@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { Observer, Observable } from '../src';
+import { Observer, Observable } from '../src/index.js';
 
 describe('Observable', () => {
   it('Notifies observers when the value is set', () => {

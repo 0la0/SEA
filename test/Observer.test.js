@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { Observer } from '../src';
+import { Observer } from '../src/index.js';
 
 describe('Observer', () => {
   it('Only accepts a function in the constructor', () => {

@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { Subscription } from '../src';
+import { Subscription } from '../src/index.js';
 
 describe('Subscription', () => {
   describe('equality checks', () => {
